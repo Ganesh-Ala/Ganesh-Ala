@@ -82,6 +82,23 @@ A Flask-based music application designed to provide a music-library and playback
 
 ---
 
+### 🌐 Personal Portfolio
+
+My personal portfolio website showcasing my background, skills, projects, and development journey.
+
+**Tech Stack:** Python · Flask · HTML · CSS · JavaScript
+
+<p>
+  <a href="https://alaganesh-portfolio.onrender.com/">
+    <img src="https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+  </a>
+  <a href="https://github.com/Ganesh-Ala/Portfolio">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ### 🥗 NutriSnap-X
 
 An AI-based food recognition and nutrition analysis application developed as an academic and practical project.
@@ -146,23 +163,6 @@ A streaming-platform prototype focused on channel scheduling and content managem
     <img src="https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
   </a>
   <a href="https://github.com/Ganesh-Ala/NDL-STUDIO">
-    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 🌐 Personal Portfolio
-
-My personal portfolio website showcasing my background, skills, projects, and development journey.
-
-**Tech Stack:** Python · Flask · HTML · CSS · JavaScript
-
-<p>
-  <a href="https://alaganesh-portfolio.onrender.com/">
-    <img src="https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
-  </a>
-  <a href="https://github.com/Ganesh-Ala/Portfolio">
     <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
