@@ -211,7 +211,7 @@ My practice-session repository, where I push the coding exercises and practical 
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/alaganesh">
+  <a href="https://www.linkedin.com/in/ganesh-ala">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
