@@ -159,7 +159,7 @@ My personal portfolio website showcasing my background, skills, projects, and de
 **Tech Stack:** Python · Flask · HTML · CSS · JavaScript
 
 <p>
-  <a href="https://ndl-studiox.onrender.com/">
+  <a href="https://alaganesh-portfolio.onrender.com/">
     <img src="https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
   </a>
   <a href="https://github.com/Ganesh-Ala/Portfolio">
