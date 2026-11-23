@@ -59,6 +59,7 @@ Currently focusing on **Python Full Stack Development**, backend development, da
 ## 🚀 Featured Projects
 
 ### 🎵 Spo2fy
+
 A Flask-based music application designed to provide a music-library and playback experience.
 
 **Features**
@@ -71,6 +72,9 @@ A Flask-based music application designed to provide a music-library and playback
 **Tech Stack:** Python · Flask · SQLite · HTML · CSS · JavaScript
 
 <p>
+  <a href="https://spo2fy.onrender.com/">
+    <img src="https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+  </a>
   <a href="https://github.com/Ganesh-Ala/spo2fy">
     <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -79,6 +83,7 @@ A Flask-based music application designed to provide a music-library and playback
 ---
 
 ### 🥗 NutriSnap-X
+
 An AI-based food recognition and nutrition analysis application developed as an academic and practical project.
 
 **Features**
@@ -91,6 +96,9 @@ An AI-based food recognition and nutrition analysis application developed as an 
 **Tech Stack:** Python · Flask · TensorFlow · Machine Learning · HTML · CSS
 
 <p>
+  <a href="https://nutrisnap-x.onrender.com/">
+    <img src="https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+  </a>
   <a href="https://github.com/Ganesh-Ala/NutriSnap-X">
     <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -99,6 +107,7 @@ An AI-based food recognition and nutrition analysis application developed as an 
 ---
 
 ### 💰 BillSmart
+
 A web-based bill and expense management application for organizing and tracking financial records.
 
 **Features**
@@ -110,6 +119,9 @@ A web-based bill and expense management application for organizing and tracking 
 **Tech Stack:** Python · Flask · SQLAlchemy · SQLite · Chart.js
 
 <p>
+  <a href="https://billsmartapp.onrender.com/">
+    <img src="https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+  </a>
   <a href="https://github.com/Ganesh-Ala/BillSmart">
     <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -118,6 +130,7 @@ A web-based bill and expense management application for organizing and tracking 
 ---
 
 ### 📺 NDL Studio
+
 A streaming-platform prototype focused on channel scheduling and content management.
 
 **Features**
@@ -129,6 +142,9 @@ A streaming-platform prototype focused on channel scheduling and content managem
 **Tech Stack:** Python · Flask · HTML · CSS · JavaScript
 
 <p>
+  <a href="https://ndl-studiox.onrender.com/">
+    <img src="https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+  </a>
   <a href="https://github.com/Ganesh-Ala/NDL-STUDIO">
     <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -137,16 +153,17 @@ A streaming-platform prototype focused on channel scheduling and content managem
 ---
 
 ### 🌐 Personal Portfolio
+
 My personal portfolio website showcasing my background, skills, projects, and development journey.
 
 **Tech Stack:** Python · Flask · HTML · CSS · JavaScript
 
 <p>
+  <a href="https://ndl-studiox.onrender.com/">
+    <img src="https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+  </a>
   <a href="https://github.com/Ganesh-Ala/Portfolio">
     <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://alaganesh-portfolio.onrender.com/">
-    <img src="https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
   </a>
 </p>
 
@@ -154,10 +171,22 @@ My personal portfolio website showcasing my background, skills, projects, and de
 
 ## 📚 Learning & Practice
 
-Repositories documenting my learning journey and hands-on programming practice.
+These repositories document different parts of my Python Full Stack learning journey.
 
-- 🐍 [Personal-PFS](https://github.com/Ganesh-Ala/Personal-PFS) — Programming practice, Python concepts, and development exercises
-- 📘 [Codegnan Python Full Stack](https://github.com/Ganesh-Ala/Codegnan-Python-Full-Stack) — Training notes, concepts, practice, and assignments
+### 🐍 Personal-PFS
+My personal, structured Python Full Stack learning and practice repository. I use it to study concepts, complete exercises, work on assignments, and practice development step by step with ChatGPT guidance.
+
+[![Learning Repository](https://img.shields.io/badge/View_Personal--PFS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ganesh-Ala/Personal-PFS)
+
+### 📘 Codegnan-Python-Full-Stack
+My classroom learning repository containing notes, concepts, examples, and work completed during Codegnan training hours.
+
+[![Class Notes](https://img.shields.io/badge/View_Class_Notes-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ganesh-Ala/Codegnan-Python-Full-Stack)
+
+### 💻 Codegnan-Practice-Session
+My practice-session repository, where I push the coding exercises and practical work completed during practice sessions at Codegnan.
+
+[![Practice Work](https://img.shields.io/badge/View_Practice_Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ganesh-Ala/Codegnan-Practice-Session)
 
 ---
 
@@ -179,11 +208,23 @@ Repositories documenting my learning journey and hands-on programming practice.
   <a href="https://github.com/Ganesh-Ala">
     <img src="https://img.shields.io/badge/GitHub-Visit_Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</p>
+
+<p align="left">
   <a href="https://www.linkedin.com/in/alaganesh">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+</p>
+
+<p align="left">
   <a href="https://alaganesh-portfolio.onrender.com/">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Website-2E8B57?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="mailto:ganeshala96@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
