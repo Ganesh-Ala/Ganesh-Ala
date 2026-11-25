@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ala Ganesh
+# 👋 Hi, I'm Ganesh Ala
 
 ### Python Full Stack Developer | B.Tech CSE (Data Science) Graduate
 
